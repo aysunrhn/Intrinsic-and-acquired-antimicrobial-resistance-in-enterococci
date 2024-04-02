@@ -1,3 +1,4 @@
+#!/bin/bash
 # Bash script to download metadata about genomes assemblies of a particular species from the NCBI Assembly Database, removing anomalous entries
 # Takes 2 positional arguments: species name and the output file path to write the metadata retrieved
 # ./download_ncbi_assembly_metadata.sh enterococcus enterococcus_ncbi_assembly_metadata.tsv
